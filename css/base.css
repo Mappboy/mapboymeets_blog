@@ -153,7 +153,7 @@ hr.small {
 }
 .intro-header {
   background-color: #808080;
-  background: no-repeat center center;
+/* background no-repeat center center */
   background-attachment: scroll;
   margin-bottom: 50px;
 }
